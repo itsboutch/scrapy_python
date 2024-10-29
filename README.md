@@ -47,4 +47,4 @@ Prevented duplicate entries using URL hashing, with an optional upsert operation
 ## **Database Preview**
 Below is a sample preview of the MongoDB collection used for storing scraped data:
 
-![Database Preview](path/to/your/image.png)
+![Database Preview](./expected_mango_output.png)
